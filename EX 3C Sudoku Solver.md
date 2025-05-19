@@ -20,7 +20,7 @@ To write a python program to find the solution of sudoku puzzle using Backtracki
 /*
 Program to implement to to find the solution of sudoku puzzle using Backtracking.
 Developed by: Lavanya M
-Register Number:  212222100007
+Register Number:  212222110021
 */
 
 board = [
